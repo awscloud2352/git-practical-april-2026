@@ -1,0 +1,2 @@
+ new file is added for the new feature branch
+ second commint in the new file is added for the new feature branch
